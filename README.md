@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/django-blog-project.git
+git clone https://github.com/Ordnarycoder/Django-Simple-Blog-51.git
 
 Navigate to project directory:
 
